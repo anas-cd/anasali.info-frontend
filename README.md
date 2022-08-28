@@ -1,4 +1,5 @@
 # anasali.info-frontend
+Frontend development of portfolio website anasali.info
 
 ## Project setup
 ```
