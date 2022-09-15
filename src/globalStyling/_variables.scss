@@ -1,0 +1,21 @@
+/* usage : 
+
+    @media #{VARIABLE_NAME} {
+        // style in here 
+    }
+
+    prefered to be used for this project: 
+    1440 -> 1024 -> 768* -> 375  (px)
+*/
+// common Media Queries
+$mq-375-down: "only screen and (max-width: 374px)";
+$mq-375-up: "only screen and (min-width: 375px)";
+
+$mq-768-down: "only screen and (max-width: 767px)";
+$mq-768-up: "only screen and (min-width: 768px)";
+
+$mq-1024-down: "only screen and (max-width: 1023px)";
+$mq-1024-up: "only screen and (min-width: 1024px)";
+
+$mq-1440-down: "only screen and (max-width: 1439px)";
+$mq-1440-up: "only screen and (min-width: 1440px)";
