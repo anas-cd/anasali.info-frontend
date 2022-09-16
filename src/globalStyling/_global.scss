@@ -96,6 +96,11 @@ body {
         & > .copyright {
             align-self: flex-end;
             font-weight: 500;
+
+            & > span {
+                margin-left: 40%;
+                color: lightgray;
+            }
         }
     }
 }

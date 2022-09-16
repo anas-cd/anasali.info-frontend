@@ -11,7 +11,7 @@
 
       <div class="info">
         <p class="date">Feb 2020 - Current</p>
-        <p class="title">Productino level projects training</p>
+        <p class="title">Production level projects training</p>
         <p class="description">
           Building front-end projects using common industry standard
           technologies.

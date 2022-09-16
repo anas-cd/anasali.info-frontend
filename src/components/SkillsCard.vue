@@ -50,7 +50,7 @@
     </div>
     <div class="soft">
       <h2>Soft skills</h2>
-      <p>Team work -</p>
+      <p>Teamwork -</p>
       <p>Openness to criticism -</p>
       <p>Communication -</p>
       <p>Adaptability -</p>

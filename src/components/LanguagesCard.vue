@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <h2>Langueges</h2>
+    <h2>Languages</h2>
     <div class="lang">
       <p>English</p>
       <div class="meterBar">

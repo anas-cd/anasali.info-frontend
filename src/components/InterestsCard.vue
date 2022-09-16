@@ -7,13 +7,13 @@
       <h2>Mechatronics / Robotics</h2>
       <div class="qualifications">
         <img src="@/assets/images/graduation-icon.png" alt="graduation" />
-        <p class="degree">Bachalor degree graduate of 2022</p>
+        <p class="degree">Bachelor's degree graduate of 2022</p>
         <p class="university">Istanbul Bilgi University</p>
       </div>
       <p class="description">
         In pursuit of diversifying my technical knowledge, a multidisciplinary
         field like Mechatronics met my needs in learning from multiple related
-        disciplines which greatly enhanced by technical problem solving skill
+        disciplines which greatly enhanced my technical problem-solving skill
         set as it enabled me to create simpler yet smarter and more efficient
         systems.
       </p>
@@ -26,10 +26,10 @@
       <h2>E-commerce</h2>
       <p class="description">
         As E-commerce workflows are more important than ever I'm interested in
-        learning and identifiying how does each stage of this model works and
-        more importantly how to enhance its preformens with automated hardware
-        or software systems to reduce logistics proplems, turnback rates, and
-        more to increase the overall satisfaction for clients.
+        learning and identifying how each stage of this model works and more
+        importantly how to enhance its performens with automated hardware or
+        software systems to reduce logistics problems, turnback rates, and more
+        to increase the overall satisfaction for clients.
       </p>
     </div>
     <img src="@/assets/images/header-online-shop.png" alt="ecommerce" />

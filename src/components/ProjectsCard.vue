@@ -26,9 +26,9 @@
         <!-- project title -->
         <h3>Social Media Dashboard</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
+          Ready to use social media dashboard with Json data, built with Vue.js
+          framework, available with two themes dark or light and the theme will
+          be autoselected at first depending on the user system preference.
         </p>
         <div class="btns">
           <a
@@ -61,9 +61,10 @@
         <!-- project title -->
         <h3>Intro With Dropdown Menu</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
+          The CSS-only dropdown menu is trackable to enable optimizing user
+          experience. all the menus and submenus are activated using a checkbox
+          element, this way data can be easily collected to optimize catagory
+          tree navigation.
         </p>
         <div class="btns">
           <a
@@ -98,9 +99,9 @@
         <!-- project title -->
         <h3>Interactive Comments Section</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
+          Interactive comments section using Vue.js framework, ready to be
+          implemented as CRUD application as all data is read and from a Json
+          data file and saved to local storage acting like the server database
         </p>
         <div class="btns">
           <a
@@ -111,6 +112,41 @@
           >
           <a
             href="https://github.com/anas-cd/Interactive-comments-section"
+            class="code"
+            target="_blank"
+            >Code</a
+          >
+          <!-- <button class="demo">Demo</button>
+          <button class="code">Code</button> -->
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <img src="@/assets/images/advice-generator.jpg" alt="advice-generator" />
+      <div class="info">
+        <!-- tags -->
+        <div class="tags">
+          <p>#HTML</p>
+          <p>#JS</p>
+          <p>#SCSS</p>
+          <p>#Gulp</p>
+          <p>#Fetch API</p>
+        </div>
+        <!-- project title -->
+        <h3>Advice Generator APP</h3>
+        <p>
+          Advice generator app using Fetch to call a free API for advice
+          generation, using SCSS and Gulp to manage file compressions.
+        </p>
+        <div class="btns">
+          <a
+            href="https://anas-cd.github.io/advice-generator-app/"
+            class="demo"
+            target="_blank"
+            >Demo</a
+          >
+          <a
+            href="https://github.com/anas-cd/advice-generator-app"
             class="code"
             target="_blank"
             >Code</a
@@ -135,9 +171,8 @@
         <!-- project title -->
         <h3>Job Listing</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
+          Filterable job listing app to filter job entries by their tags, also
+          featured and new job listings are labeled to be identified easily.
         </p>
         <div class="btns">
           <a
@@ -173,9 +208,8 @@
         <!-- project title -->
         <h3>Interactive Pricing Component</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
+          Interactive slider pricing component that's accessible via mouse or
+          keyboard, with dynamic pricing depending on the billing plan chosen.
         </p>
         <div class="btns">
           <a
@@ -208,9 +242,9 @@
         <!-- project title -->
         <h3>FAQ Accordion Component</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
+          With a responsive FAQ accordion, the user can expand a question topic
+          to see more details, the expanding option makes better use of the
+          screen size as it utilizes the screen to show more topics at once.
         </p>
         <div class="btns">
           <a
@@ -221,77 +255,6 @@
           >
           <a
             href="https://github.com/anas-cd/faq-accordion-card"
-            class="code"
-            target="_blank"
-            >Code</a
-          >
-          <!-- <button class="demo">Demo</button>
-          <button class="code">Code</button> -->
-        </div>
-      </div>
-    </div>
-    <div class="card">
-      <img src="@/assets/images/NFT-card.jpg" alt="NFT-card" />
-      <div class="info">
-        <!-- tags -->
-        <div class="tags">
-          <p>#HTML</p>
-          <p>#JS</p>
-          <p>#SCSS</p>
-          <p>#Gulp</p>
-        </div>
-        <!-- project title -->
-        <h3>NFT Card Component</h3>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
-        </p>
-        <div class="btns">
-          <a
-            href="https://anas-cd.github.io/NFT-preview-card/"
-            class="demo"
-            target="_blank"
-            >Demo</a
-          >
-          <a
-            href="https://github.com/anas-cd/NFT-preview-card"
-            class="code"
-            target="_blank"
-            >Code</a
-          >
-          <!-- <button class="demo">Demo</button>
-          <button class="code">Code</button> -->
-        </div>
-      </div>
-    </div>
-    <div class="card">
-      <img src="@/assets/images/advice-generator.jpg" alt="advice-generator" />
-      <div class="info">
-        <!-- tags -->
-        <div class="tags">
-          <p>#HTML</p>
-          <p>#JS</p>
-          <p>#SCSS</p>
-          <p>#Gulp</p>
-          <p>#Fetch API</p>
-        </div>
-        <!-- project title -->
-        <h3>Advice Generator APP</h3>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-          voluptas doloremque corporis delectus, eveniet ducimus aperiam libero
-          nulla fugit labore?
-        </p>
-        <div class="btns">
-          <a
-            href="https://anas-cd.github.io/advice-generator-app/"
-            class="demo"
-            target="_blank"
-            >Demo</a
-          >
-          <a
-            href="https://github.com/anas-cd/advice-generator-app"
             class="code"
             target="_blank"
             >Code</a
@@ -375,6 +338,8 @@ export default {
     }
     & > .info {
       margin-left: 1rem;
+      display: flex;
+      flex-flow: column nowrap;
 
       @media #{$mq-1024-down} {
         margin: 0;
@@ -389,11 +354,14 @@ export default {
 
       & > h3 {
         font-weight: 500;
+        margin-bottom: 0;
       }
 
       & > .btns {
         display: flex;
         flex-flow: row nowrap;
+        margin-top: auto;
+
         @media #{$mq-1024-down} {
           display: flex;
           flex-flow: column nowrap;
