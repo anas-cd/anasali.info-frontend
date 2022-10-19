@@ -14,11 +14,7 @@
       <a href="#contact">
         <img src="@/assets/images/send-inbox-icon.png" alt="send-mail" />
       </a>
-      <a
-        href="Anas Ali_Junior Front-end Developer.pdf"
-        target="_blank"
-        download
-      >
+      <a href="Anas's Resume dev.pdf" target="_blank" download>
         <img
           class="cvbtn"
           src="@/assets/images/rmbg-download-whight-resume-icon.png"

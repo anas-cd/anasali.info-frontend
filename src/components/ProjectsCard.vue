@@ -11,6 +11,45 @@
 
   <div class="projectsList">
     <div class="card">
+      <img src="@/assets/images/rest-api.jpg" alt="rest countries api" />
+      <div class="info">
+        <!-- tags -->
+        <div class="tags">
+          <p>#Semantic HTML5</p>
+          <p>#Bootstrap</p>
+          <p>#JS</p>
+          <p>#Vue-composition-API</p>
+          <p>#SCSS</p>
+          <p>#Axios</p>
+          <p>#Gsap</p>
+          <p>#Vue-router</p>
+        </div>
+        <!-- project title -->
+        <h3>Countries Vue app</h3>
+        <p>
+          Using the
+          <a href="https://restcountries.com/">REST Countries API</a> this is a
+          multipage Vue app for searching and viewing country information, the
+          user can switch themes, search for a country by name, filter coutnries
+          by region and more.
+        </p>
+        <div class="btns">
+          <a
+            href="https://rest-countries-api.onrender.com/"
+            class="demo"
+            target="_blank"
+            >Demo</a
+          >
+          <a
+            href="https://github.com/anas-cd/rest_api"
+            class="code"
+            target="_blank"
+            >Code</a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="card">
       <img src="@/assets/images/social-dash.jpg" alt="social media dashboard" />
       <div class="info">
         <!-- tags -->

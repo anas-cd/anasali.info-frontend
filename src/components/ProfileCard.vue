@@ -15,7 +15,7 @@
         >
       </div>
       <div class="contact">
-        <img src="@/assets/images/phone-icon.png" alt="phone" />
+        <img src="@/assets/images/chat-icon.png" alt="phone" />
         <a href="tel:+905522759886">(+90) 552 275 98 86</a>
       </div>
       <p>

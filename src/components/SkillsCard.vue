@@ -17,7 +17,7 @@
       <div class="FSkill">
         <p>Vue</p>
         <div class="meterBar">
-          <div class="meter meter__60"></div>
+          <div class="meter meter__70"></div>
         </div>
       </div>
       <div class="FSkill">
