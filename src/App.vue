@@ -4,17 +4,20 @@
     <!-- <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> -->
     <div class="social">
-      <a href="https://github.com/anas-cd">
+      <a href="https://github.com/anas-cd" target="_blank">
         <img src="@/assets/images/github-icon.png" alt="github-link" />
       </a>
-      <a href="https://tr.linkedin.com/in/anas-ali-banshamlan-612667245">
+      <a
+        href="https://tr.linkedin.com/in/anas-ali-banshamlan-612667245"
+        target="_blank"
+      >
         <img src="@/assets/images/linkedin-icon.png" alt="linkedin-link" />
       </a>
       <div class="vl"></div>
       <a href="#contact">
         <img src="@/assets/images/send-inbox-icon.png" alt="send-mail" />
       </a>
-      <a href="Anas's Resume dev.pdf" target="_blank" download>
+      <a href="Anas's CV_Frontend web developer.pdf" target="_blank" download>
         <img
           class="cvbtn"
           src="@/assets/images/rmbg-download-whight-resume-icon.png"

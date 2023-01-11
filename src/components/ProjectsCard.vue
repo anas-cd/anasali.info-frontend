@@ -11,6 +11,37 @@
 
   <div class="projectsList">
     <div class="card">
+      <img src="@/assets/images/BlueLine-project.png" alt="Blueline website" />
+      <div class="info">
+        <!-- tags -->
+        <div class="tags">
+          <p>#Semantic HTML5</p>
+          <p>css functions</p>
+        </div>
+        <!-- project title -->
+        <h3>BlueLine</h3>
+        <p>
+          A simple multipage website was made with vanilla HTML and CSS, this
+          project is only to show case the use of semantic HTML values as well
+          as the file structure for quick code navigation.
+        </p>
+        <div class="btns">
+          <a
+            href="https://anas-cd.github.io/brainnest-w2-mainpr/"
+            class="demo"
+            target="_blank"
+            >Demo</a
+          >
+          <a
+            href="https://github.com/anas-cd/brainnest-w2-mainpr"
+            class="code"
+            target="_blank"
+            >Code</a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="card">
       <img src="@/assets/images/rest-api.jpg" alt="rest countries api" />
       <div class="info">
         <!-- tags -->
@@ -42,6 +73,46 @@
           >
           <a
             href="https://github.com/anas-cd/rest_api"
+            class="code"
+            target="_blank"
+            >Code</a
+          >
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <img
+        src="@/assets/images/Calculator-project.png"
+        alt="calculator project"
+      />
+      <div class="info">
+        <!-- tags -->
+        <div class="tags">
+          <p>#HTML</p>
+          <p>#JS</p>
+          <p>#Vue</p>
+          <p>#Semantic HTML5</p>
+        </div>
+        <!-- project title -->
+        <h3>Calculator app</h3>
+        <p>
+          Multi-theme Calculator for basic math operations with many features
+          like Memory display, operations chaining, Smart theme switching,
+          dynamic error/confirmation messages, and more.
+          <sub>
+            you can see all features at the README.md in the repo by clicking on
+            'Code' bellow.
+          </sub>
+        </p>
+        <div class="btns">
+          <a
+            href="https://anas-cd.github.io/brainnest-w4-mainpr/"
+            class="demo"
+            target="_blank"
+            >Demo</a
+          >
+          <a
+            href="https://github.com/anas-cd/brainnest-w4-mainpr"
             class="code"
             target="_blank"
             >Code</a

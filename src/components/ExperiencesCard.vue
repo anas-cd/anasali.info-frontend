@@ -2,6 +2,22 @@
   <div class="card">
     <h2>Experiences</h2>
     <div class="xpEntry">
+      <a href="https://www.brainnest.consulting/" target="_blank">
+        <img
+          src="@/assets/images/Brainnest.png"
+          alt="Brainnest consulting company"
+        />
+      </a>
+
+      <div class="info">
+        <p class="date">Nov 2022 - Jan 2023</p>
+        <p class="title">Frontend Internship Trainee</p>
+        <p class="description">
+          Building and testing professional frontend web projects.
+        </p>
+      </div>
+    </div>
+    <div class="xpEntry">
       <a href="https://www.frontendmentor.io/" target="_blank">
         <img
           src="@/assets/images/front-end_mentor_icon.png"
@@ -32,6 +48,7 @@ export default {
   display: flex;
   flex-flow: row nowrap;
   align-items: flex-start;
+  margin-bottom: 1rem;
   img {
     width: 3.18rem;
     margin-right: 0.5rem;

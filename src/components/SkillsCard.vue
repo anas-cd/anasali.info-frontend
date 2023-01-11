@@ -17,7 +17,7 @@
       <div class="FSkill">
         <p>Vue</p>
         <div class="meterBar">
-          <div class="meter meter__70"></div>
+          <div class="meter meter__80"></div>
         </div>
       </div>
       <div class="FSkill">
@@ -46,7 +46,13 @@
       <p>Java -</p>
       <p>Python -</p>
       <p>Azure -</p>
-      <p>C</p>
+      <p>C -</p>
+      <p>Semantic HTML5 -</p>
+      <p>Multibrowser testing -</p>
+      <p>Fully/Semi responsive design -</p>
+      <p>Attention to UI/UX details -</p>
+      <p>Doc Maintainence -</p>
+      <p>Quality coding</p>
     </div>
     <div class="soft">
       <h2>Soft skills</h2>

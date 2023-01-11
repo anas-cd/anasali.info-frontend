@@ -7,7 +7,7 @@
     </div>
     <div class="info">
       <h1>Anas Ali Shamlan</h1>
-      <p>Junior Front-end Developer</p>
+      <p>Front-end Developer</p>
       <div class="contact">
         <img src="@/assets/images/email-icon.png" alt="email" />
         <a href="mailto:contact@anasali.info" target="”_blank”"
@@ -41,7 +41,7 @@
         Get a quote
       </a>
       <a
-        href="Anas Ali_Junior Front-end Developer.pdf"
+        href="Anas's CV_Frontend web developer.pdf"
         class="btn cv flexer"
         target="_blank"
         download
