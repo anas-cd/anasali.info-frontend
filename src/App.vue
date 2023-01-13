@@ -17,7 +17,11 @@
       <a href="#contact">
         <img src="@/assets/images/send-inbox-icon.png" alt="send-mail" />
       </a>
-      <a href="Anas's CV_Frontend web developer.pdf" target="_blank" download>
+      <a
+        href="Anas Ali Banshamlan CV_Frontend web developer.pdf"
+        target="_blank"
+        download
+      >
         <img
           class="cvbtn"
           src="@/assets/images/rmbg-download-whight-resume-icon.png"

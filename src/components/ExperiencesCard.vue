@@ -10,10 +10,11 @@
       </a>
 
       <div class="info">
-        <p class="date">Nov 2022 - Jan 2023</p>
-        <p class="title">Frontend Internship Trainee</p>
+        <p class="date">Nov 2022 - Dec 2022</p>
+        <p class="title">Front-end Development Industry Training Program</p>
         <p class="description">
-          Building and testing professional frontend web projects.
+          Building and testing professional level front-end projects using best
+          coding practices.
         </p>
       </div>
     </div>
