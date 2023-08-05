@@ -10,6 +10,18 @@
         <p>VS Code</p>
       </div>
     </a>
+    <a href="https://laravel.com/" target="_blank">
+      <div class="tool">
+        <img src="@/assets/images/laravel-logo.png" alt="Laravel" />
+        <p>Laravel</p>
+      </div>
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+      <div class="tool">
+        <img src="@/assets/images/postman-logo.png" alt="postman" />
+        <p>Postman</p>
+      </div>
+    </a>
     <a href="https://www.figma.com/" target="_blank">
       <div class="tool">
         <img src="@/assets/images/Figma-icon.png" alt="figma" />

@@ -2,6 +2,23 @@
   <div class="card">
     <h2>Experiences</h2>
     <div class="xpEntry">
+      <a href="#" target="_blank">
+        <img
+          src="@/assets/images/main-logo.png"
+          alt="anas ali services"
+          style="padding: 5px"
+        />
+      </a>
+
+      <div class="info">
+        <p class="date">Nov 2022 - Dec 2022</p>
+        <p class="title">Full-Stack Web Development</p>
+        <p class="description">
+          Building and testing Full-Stack SPAs Web projects.
+        </p>
+      </div>
+    </div>
+    <div class="xpEntry">
       <a href="https://www.brainnest.consulting/" target="_blank">
         <img
           src="@/assets/images/Brainnest.png"
@@ -10,7 +27,7 @@
       </a>
 
       <div class="info">
-        <p class="date">Nov 2022 - Dec 2022</p>
+        <p class="date">Mar 2023 - present</p>
         <p class="title">Front-end Development Industry Training Program</p>
         <p class="description">
           Building and testing professional level front-end projects using best

@@ -7,7 +7,7 @@
     </div>
     <div class="info">
       <h1>Anas Ali Shamlan</h1>
-      <p>Front-end Developer</p>
+      <p>Full-Stack Web Developer</p>
       <div class="contact">
         <img src="@/assets/images/email-icon.png" alt="email" />
         <a href="mailto:contact@anasali.info" target="”_blank”"
@@ -19,11 +19,11 @@
         <a href="tel:+905522759886">(+90) 552 275 98 86</a>
       </div>
       <p>
-        Autodidact individual excited about web development and looking forward
-        to starting a role in Frontend while pressing to learn new skills. I've
-        practiced building production-level pages using industry-standard
-        technologies like Vue.js, APIs, CSS preprocessors, semantic HTML, and
-        more.
+        Autodidact individual excited about web development, looking forward to
+        grow at the end of each project. I've built production-level pages using
+        industry-standard technologies like Vue.js, CSS preprocessors, semantic
+        HTML for the Front-end side, and built RESTfull APIs using Laravel PHP,
+        and MySQL database for SPAs in the Back-end side.
       </p>
     </div>
     <div class="buttons">

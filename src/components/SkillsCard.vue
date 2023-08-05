@@ -21,6 +21,12 @@
         </div>
       </div>
       <div class="FSkill">
+        <p>Laravel PHP</p>
+        <div class="meterBar">
+          <div class="meter meter__80"></div>
+        </div>
+      </div>
+      <div class="FSkill">
         <p>APIs</p>
         <div class="meterBar">
           <div class="meter meter__70"></div>
@@ -61,7 +67,9 @@
       <p>Communication -</p>
       <p>Adaptability -</p>
       <p>Time management -</p>
-      <p>Problem solving</p>
+      <p>Problem solving -</p>
+      <p>Interpersonal skills -</p>
+      <p>pro-active</p>
     </div>
   </div>
 </template>
