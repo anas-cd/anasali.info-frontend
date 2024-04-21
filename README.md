@@ -1,25 +1,75 @@
-# anasali.info-frontend
-Frontend development of portfolio website anasali.info
+# anas portfolio (anas-portfolio)
 
-## Project setup
-```
+Anas Shamlan portfolio application
+
+## Install the dependencies
+
+```bash
+yarn
+# or
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+
+```bash
+quasar dev
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Lint the files
 
-### Lints and fixes files
-```
+```bash
+yarn lint
+# or
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Format the files
+
+```bash
+yarn format
+# or
+npm run format
+```
+
+### Build the app for production
+
+```bash
+quasar build
+```
+
+### Customize the configuration
+
+See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
+### Comments
+
+`---` for code chunks, used for logic and sections seperation in code
+
+```
+/* --- main comment --- */
+- or -
+// --- sub comment ---
+```
+
+`--` for descriptors, used to descripe the functionlaity of a peace of code within a code chunk
+
+```
+/* -- main comment -- */
+- or -
+// -- sub comment --
+```
+
+`-` for steps, used to indicate steps
+
+```
+/* - main comment - */
+- or -
+// - sub comment -
+```
+
+`<none>` for small notes
+
+```
+// comment
+```

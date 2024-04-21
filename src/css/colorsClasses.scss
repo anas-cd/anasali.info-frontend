@@ -1,0 +1,56 @@
+// main colors selectors
+.bg-primary {
+  background: $primary !important;
+}
+.bg-gradient-90 {
+  background: $gradient-90 !important;
+}
+.bg-gradient-0 {
+  background: $gradient-0 !important;
+}
+.bg-gradient-180 {
+  background: $gradient-180 !important;
+}
+.bg-accent {
+  background: $accent !important;
+}
+.text-primary {
+  color: $primary !important;
+}
+.text-gradient-90 {
+  color: $gradient-90 !important;
+}
+.text-gradient-0 {
+  color: $gradient-0 !important;
+}
+.text-gradient-180 {
+  color: $gradient-180 !important;
+}
+.text-accent {
+  color: $accent !important;
+}
+
+// main objects
+.text-dark {
+  color: $text-dark !important;
+}
+.text-light {
+  color: $text-light !important;
+}
+.page-bg {
+  background: $page-bg !important;
+}
+.cards-bg {
+  background: $cards-bg !important;
+}
+.track-bg {
+  background: $track-bg !important;
+}
+
+// main shadows
+.larg-shadow {
+  box-shadow: $larg-shadow !important;
+}
+.small-shadow {
+  box-shadow: $small-shadow !important;
+}

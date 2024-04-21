@@ -1,0 +1,12 @@
+/* usage :
+
+  @media #{VARIABLE-NAME} {
+      // style in here
+  }
+*/
+$mq-480-down: "only screen and (max-width: 480px)";
+
+$mq-1024-up: "only screen and (min-width: 1025px)";
+$mq-1024-down: "only screen and (max-width: 1024px)";
+
+$mq-768-down: "only screen and (max-width: 768px)";

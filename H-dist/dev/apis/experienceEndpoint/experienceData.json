@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "role": "Freelance Web App Developer",
+      "description": "Developing cost effecient websites and internal systems for small to medium sized business and projects.",
+      "startDate": "2022-10-01T00:00:00+0000",
+      "endDate": null,
+      "employer": {
+        "name": "[Freelancing]",
+        "refName": null,
+        "refContact": null,
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAMAAACTisy7AAAAXVBMVEVHcEzpl1beqHL1nEUn5/LvqlX1nUjcWU3vjkvxrFLxikbpYEPsWj7pcEnxe0Lwh0LukU7sa0K4l4TmfUzwiEbwjUfhUUXsdEXoaUbwi0nubkHmY0bpXD/daFLNX1ExCJEwAAAAH3RSTlMARhf/AWbmYI2nrLP/iP//iKIJYbyfb9Samv978zEqWi60yQAAAHpJREFUeAHdD4MBwDAss83y/y/HajygsQH2guP+JL1n0g9kY3ioyNe52EuElZ5VWV6IQFGmalYlWtysrPcJedOqEV2vzHbwAhjzQi+YHL2r3pLgzyUSvS0GX1hzGYtbkTiINCIw57Me155HUib8sTX/POp4Dt/QMrAWVlyNA/Y6YcPGAAAAAElFTkSuQmCC",
+        "website": "https://dev.anasali.info/"
+      }
+    },
+    {
+      "role": "Front-end Development Industry Training",
+      "description": "Building and testing professional level front-end projects using best coding practices.",
+      "startDate": "2022-03-01T00:00:00+0000",
+      "endDate": "2022-08-01T00:00:00+0000",
+      "employer": {
+        "name": "Brainnest",
+        "refName": "Branko Popovic",
+        "refContact": "branko.fd.br@gmail.com",
+        "image": "https://career.brainnest.consulting/recruit/viewCareerImage.do?type=meta&page_id=656784000000397137&file_name=circle-cropped.png",
+        "website": "https://www.linkedin.com/company/brainnest-consulting/about/"
+      }
+    },
+    {
+      "role": "Production level projects training",
+      "description": "Building front-end projects using common industry standard technologies.",
+      "startDate": "2020-02-01T00:00:00+0000",
+      "endDate": "2021-10-01T00:00:00+0000",
+      "employer": {
+        "name": "[Self Training]",
+        "refName": null,
+        "refContact": null,
+        "image": "https://avatars.githubusercontent.com/u/47932038?s=200&v=4",
+        "website": "https://www.frontendmentor.io/"
+      }
+    }
+  ]
+}

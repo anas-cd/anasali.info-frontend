@@ -1,0 +1,22 @@
+{
+  "data": {
+    "name": "anas ali shamlan",
+    "speciality": "full-stack cross platform developer",
+    "email": "contact@anasali.info",
+    "phone": "+905522759886",
+    "description": "Driven Web Developer with an eye for detail and a commitment to creating innovative, user-friendly websites and mobile applications. I've experience in HTML/CSS, JavaScript, and Vue.js for the front end, and used Laravel PHP to build RESTfull APIs in the back end alongside MySQL databases.",
+    "social": {
+      "github": {
+        "link": "https://github.com/anas-cd",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png",
+        "tip": "view github profile"
+      },
+      "linkedin": {
+        "link": "https://www.linkedin.com/in/anas-shamlan/",
+        "img": "https://cdn-icons-png.flaticon.com/512/61/61109.png",
+        "tip": "view linkedin profile"
+      }
+    },
+    "cvLink": "https://dev.anasali.info/Anas Ali Banshamlan CV_Frontend web developer.pdf"
+  }
+}

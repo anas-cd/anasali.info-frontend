@@ -1,0 +1,121 @@
+{
+  "data": {
+    "tech": {
+      "primary": [
+        {
+          "label": "Laravel",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png",
+          "link": "https://laravel.com/",
+          "progress": 0.6,
+          "tip": "for REST APIs backend development"
+        },
+        {
+          "label": "CSS/SCSS",
+          "img": "https://sibiraj-s.gallerycdn.vsassets.io/extensions/sibiraj-s/vscode-scss-formatter/3.0.0/1688977015361/Microsoft.VisualStudio.Services.Icons.Default",
+          "link": "https://sass-lang.com/",
+          "progress": 0.85,
+          "tip": "most CSS preprocessor I use"
+        },
+        {
+          "label": "Vue.js",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+          "link": "https://vuejs.org/",
+          "progress": 0.8,
+          "tip": "most Javascript framwork I use"
+        },
+        {
+          "label": "Quasar.js",
+          "img": "https://cdn.quasar.dev/logo-v2/512/logo.png",
+          "link": "https://quasar.dev/",
+          "progress": 0.65,
+          "tip": "used for cross-platform web app development"
+        },
+        {
+          "label": "Javascript",
+          "img": "https://media.licdn.com/dms/image/D4D12AQEL9aeB8WqRaw/article-cover_image-shrink_600_2000/0/1685204779306?e=2147483647&v=beta&t=jr7Um-vZDvcgCCzx0a48zCEr3RtUyRVqelGOzrpL4bs",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript#:~:text=JavaScript%20(JS)%20is%20a%20lightweight,Apache%20CouchDB%20and%20Adobe%20Acrobat.",
+          "progress": 0.7,
+          "tip": "common for web development"
+        },
+        {
+          "label": "HTML",
+          "img": "https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+          "progress": 0.9,
+          "tip": "common for web development"
+        },
+        {
+          "label": "PHP",
+          "img": "https://static-00.iconduck.com/assets.00/php-icon-144x144-blfwn8th.png",
+          "link": "https://www.php.net/",
+          "progress": 0.75,
+          "tip": "common for backend development"
+        }
+      ],
+      "supportive": [
+        {
+          "label": "Nuxt",
+          "link": "https://nuxt.com/",
+          "img": "https://cp.drunomics.com/files/styles/bounding_box_1600x1000/public/2022-12/icon-green-square.png?itok=9VmSTOtM",
+          "tip": "for projects without cross-platform compatibility in mind"
+        },
+        {
+          "label": "MySQL",
+          "link": "https://www.mysql.com/",
+          "img": "https://pipedream.com/s.v0/app_1YMhwo/logo/orig",
+          "tip": "the go to database solution for my projects"
+        },
+        {
+          "label": "Python",
+          "link": "https://www.python.org/",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+          "tip": "preferred language for ML and most AI related tasks"
+        },
+        {
+          "label": "C/C++",
+          "link": "https://en.wikipedia.org/wiki/C_(programming_language)",
+          "img": "https://www.dw-learnwell.in/wp-content/uploads/2022/11/c-1.png",
+          "tip": "used for heavier AI related tasks where speed is needed"
+        }
+      ]
+    },
+    "tools": [
+      {
+        "label": "VSCode",
+        "link": "https://code.visualstudio.com/",
+        "img": "https://carleton.ca/scs/wp-content/uploads/vscode-1.png",
+        "tip": "preferred IDE"
+      },
+      {
+        "label": "Postman",
+        "link": "https://www.postman.com/",
+        "img": "https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png",
+        "tip": "preferred tool for building and testing APIs"
+      },
+      {
+        "label": "Figma",
+        "link": "https://www.figma.com/",
+        "img": "https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png",
+        "tip": "most designing tool I use"
+      },
+      {
+        "label": "Git",
+        "link": "https://git-scm.com/",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png",
+        "tip": "my preferred versioning tool"
+      },
+      {
+        "label": "NPM",
+        "link": "https://www.npmjs.com/",
+        "img": "https://static-00.iconduck.com/assets.00/npm-icon-512x512-qtfdrf37.png",
+        "tip": "most Javascript package manager I use"
+      },
+      {
+        "label": "Composer",
+        "link": "https://getcomposer.org/",
+        "img": "https://getcomposer.org/img/logo-composer-transparent.png",
+        "tip": "PHP package manager"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Full Stack PHP course",
+      "sourceLink": "https://www.udemy.com/course/the-complete-php-full-stack-web-developer-bootcamp/",
+      "sourceName": "Udemy",
+      "description": "Building websites with HTML, CSS, JAVASCRIPT, PHP, MySQL, OOP & more!"
+    },
+    {
+      "name": "Vue 3 Composition API",
+      "sourceLink": "https://www.vuemastery.com/courses/vue-3-essentials/why-the-composition-api/",
+      "sourceName": "Vue Mastery",
+      "description": "Learning Vue 3's new Composition API, an alternative way to compose components for scalable Vue applications."
+    },
+    {
+      "name": "Vuex Fundamentals",
+      "sourceLink": "https://www.vuemastery.com/courses/vuex-fundamentals/vuex4-intro-to-vuex",
+      "sourceName": "Vue Mastery",
+      "description": "Learning how state management with Vuex can handle your app's data needs."
+    },
+    {
+      "name": "C/C++ programming language",
+      "sourceLink": "https://www.vuemastery.com/courses/vuex-fundamentals/vuex4-intro-to-vuex",
+      "sourceName": "Udemy",
+      "description": "Learning c yall"
+    }
+  ]
+}

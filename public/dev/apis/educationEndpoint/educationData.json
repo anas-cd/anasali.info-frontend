@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "name": "BACHELOR of SCIENCE in MECHATRONICS ENGINEERING",
+      "source": "Istanbul Bilgi University",
+      "country": "Turkey",
+      "courses": [
+        "Algorithms and Programming",
+        "Cloud Computing and Applications",
+        "Object Oriented Programming",
+        "User Interface Design"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+// importing other variables
+@import "breakouts";
+
+// --- primary project colors ---
+$honey-yellow: #f6ae2d; // slider and nav border
+$orange-red: #f26419; // slider and nav border and footer accent
+$azure-blue: #2f80ed; // total primary
+$gray: #c2c2c2; // sliders and meter bars background
+$cultured-gray: #f5f5f5; // background color
+$dark-gray: #505050; // secondary text color
+$white: white; // cards color
+$rich-black: #021627; // main text color
+
+// --- conditional colors ---
+$positive: #90ee90;
+$negative: #ff4057;
+$info: #31ccec;
+$warning: #ffd769;
+
+/* --- shades --- */
+// -- 70% shaded primary project colors --
+$honey-yellow-70: #f6b02cb3; // slider and nav border
+$orange-red-70: #f26419b3; // slider and nav border and footer accent
+$azure-blue-70: #2f80edb3; // total primary
+$gray-70: #c2c2c2b3; // sliders and meter bars background
+$cultured-gray-70: #f5f5f5b3; // background color
+$dark-gray-70: #505050b3; // secondary text color
+$white-70: #ffffffb3; // cards color
+$rich-black-70: #021627b3; // main text color
+
+// -- 70% shaded conditional colors --
+$positive-70: #90ee90b3;
+$negative-70: #ff4057b3;
+$info-70: #31ccecb3;
+$warning-70: #ffd769b3;
+
+// -- 40% shaded primary project colors --
+$honey-yellow-40: #f6ae2d66; // slider and nav border
+$orange-red-40: #f2641966; // slider and nav border and footer accent
+$azure-blue-40: #2f80ed66; // total primary
+$gray-40: #c2c2c266; // sliders and meter bars background
+$cultured-gray-40: #f5f5f566; // background color
+$dark-gray-40: #50505066; // secondary text color
+$white-40: #ffffff66; // cards color
+$rich-black-40: #02162766; // main text color
+
+// -- 40% shaded conditional colors --
+$positive-40: #90ee9066;
+$negative-40: #ff405766;
+$info-40: #31ccec66;
+$warning-40: #ffd76966;
+
+/**
+///////////////////////////
+* all colors are only available for the light/bright color scheme
+///////////////////////////
+*/
+
+/* --- main colors selectors --- */
+$primary: $azure-blue;
+$gradient-90: linear-gradient(-90deg, $orange-red 0%, $honey-yellow 100%);
+$gradient-0: linear-gradient(0deg, $orange-red 0%, $honey-yellow 100%);
+$gradient-180: linear-gradient(180deg, $orange-red 0%, $honey-yellow 100%);
+$accent: $orange-red;
+
+// -- main objects --
+$text-dark: $dark-gray;
+$text-light: $gray;
+$page-bg: $cultured-gray;
+$cards-bg: $white;
+$track-bg: $gray;
+
+// -- main shadows --
+$larg-shadow: 0 14px 45px -25px #0000003d;
+$small-shadow: 0 10px 15px -15px #0000003d;
+$larg-shadow-up: 0 -14px 45px -25px #0000003d;
+$small-shadow-up: 0 -10px 15px -15px #0000003d;
+
+/* -- shades -- */
+// -- 70% shaded main color selectors --
+$primary-70: $azure-blue-70;
+$gradient-90-70: linear-gradient(
+  -90deg,
+  $orange-red-70 0%,
+  $honey-yellow-70 100%
+);
+$gradient-0-70: linear-gradient(0deg, $orange-red-70 0%, $honey-yellow-70 100%);
+$gradient-180-70: linear-gradient(
+  180deg,
+  $orange-red-70 0%,
+  $honey-yellow-70 100%
+);
+$accent-70: $orange-red;
+
+// -- 70% shaded main objects --
+$text-dark-70: $rich-black-70;
+$text-light-70: $gray-70;
+$page-bg-70: $cultured-gray-70;
+$cards-bg-70: $white-70;
+$track-bg-70: $gray-70;
+
+// -- 40% shaded main color selectors --
+$primary-40: $azure-blue-40;
+$gradient-90-40: linear-gradient(
+  -90deg,
+  $orange-red-40 0%,
+  $honey-yellow-40 100%
+);
+$gradient-0-40: linear-gradient(0deg, $orange-red-40 0%, $honey-yellow-40 100%);
+$gradient-180-40: linear-gradient(
+  180deg,
+  $orange-red-40 0%,
+  $honey-yellow-40 100%
+);
+$accent-40: $orange-red-40;
+
+// -- 40% shaded main objects --
+$text-dark-40: $rich-black-40;
+$text-light-40: $gray-40;
+$page-bg-40: $cultured-gray-40;
+$cards-bg-40: $white-40;
+$track-bg-40: $gray-40;

@@ -1,34 +1,42 @@
 {
-  "name": "anasali.info-frontend",
-  "version": "0.1.0",
+  "name": "anas-portfolio",
+  "version": "0.5.0",
+  "description": "Anas Shamlan portfolio application ",
+  "productName": "anas portfolio",
+  "author": "anas-cd <anas.cd.97@gmail.com>",
+  "type": "module",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "eslint --ext .js,.vue ./",
+    "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build"
   },
   "dependencies": {
-    "axios": "^0.27.2",
-    "core-js": "^3.25.5",
-    "simplebar-vue": "^1.6.10",
-    "vue": "^3.2.41",
-    "vue-router": "^4.0.3",
-    "vuex": "^4.1.0"
+    "@quasar/extras": "^1.16.4",
+    "axios": "^1.2.1",
+    "axios-retry": "^4.1.0",
+    "pinia": "^2.0.11",
+    "quasar": "^2.6.0",
+    "swiper": "^11.1.0",
+    "vue": "^3.4.18",
+    "vue-i18n": "^9.0.0",
+    "vue-router": "^4.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.19.3",
-    "@babel/eslint-parser": "^7.19.1",
-    "@vue/cli-plugin-babel": "~5.0.0",
-    "@vue/cli-plugin-eslint": "~5.0.0",
-    "@vue/cli-plugin-router": "~5.0.0",
-    "@vue/cli-plugin-vuex": "~5.0.0",
-    "@vue/cli-service": "~5.0.0",
-    "eslint": "^7.32.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-vue": "^8.0.3",
-    "prettier": "^2.4.1",
-    "sass": "^1.55.0",
-    "sass-loader": "^12.0.0"
+    "@intlify/unplugin-vue-i18n": "^2.0.0",
+    "@quasar/app-vite": "^2.0.0-beta.1",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "postcss": "^8.4.14",
+    "prettier": "^3.0.3"
+  },
+  "engines": {
+    "node": "^24 || ^22 || ^20 || ^18",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
   }
 }

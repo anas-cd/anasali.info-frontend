@@ -1,0 +1,46 @@
+{
+  "data": {
+    "primary": [
+      {
+        "label": "Cross-Platform web apps development",
+        "description": "Android, IOS, Windows, macOS, Linux. Integrated natively using Quasar.js",
+        "icon": "devices"
+      },
+      {
+        "label": "Building REST APIs",
+        "description": "using Laravel",
+        "icon": "api"
+      },
+      {
+        "label": "Developing Responsive Pages",
+        "icon": "fit_screen"
+      },
+      {
+        "label": "Doc Maintenance",
+        "icon": "description"
+      },
+      {
+        "label": "Multibrowser testing",
+        "icon": "domain_verification"
+      }
+    ],
+    "supportive": [
+      "Machine Learning",
+      "SPA & SSR",
+      "Azure",
+      "Semantic HTML5",
+      "Quality Coding"
+    ],
+    "soft": [
+      "Teamwork",
+      "Problem solving",
+      "Attention to details",
+      "Openness to criticism",
+      "Communication",
+      "Adaptability",
+      "Time management",
+      "Interpersonal skills",
+      "pro-active"
+    ]
+  }
+}
