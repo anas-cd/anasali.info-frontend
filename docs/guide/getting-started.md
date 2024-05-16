@@ -21,7 +21,8 @@ Before we start coding we need to have some preparation work for Quasar, this pr
 
 - Node 14+ for Quasar CLI with Vite.
 - Yarn v1 (strongly recommended), PNPM, or NPM.
-    :::
+
+:::
 
 you can install the Quasar CLI globally by running this command:
 
