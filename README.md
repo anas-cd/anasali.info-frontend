@@ -1,75 +1,105 @@
-# anas portfolio (anas-portfolio)
+# My Portfolio Website
 
-Anas Shamlan portfolio application
+This repository contains the frontend source code for my personal portfolio website. Here you can find examples of my work, experience, and skills.
 
-## Install the dependencies
+## Live site:
+
+[dev.anasali.info](https://dev.anasali.info/)
+![App Screenshot](./public/anas_portfolio.png)
+
+## Documentation
+
+[docs.anaslai.info/front-end](https://docs.anasali.info/front-end/)
+![App Screenshot](./docs/assets/portfolio-documentation.png)
+
+## Features:
+
+- 📑 Skimmable Portfolio Content
+  - Designed and structrued to be easly scaned in seconds.
+- 📱 Stand By Compatibility
+  - Cross platform combatible codebase for mobile & desktop
+- 🖵 Highly Dynamic
+  - Dynamic data preveiws fetched from backend
+
+---
+
+## Main Technologies Used:
+
+- [Vue.js](https://vuejs.org/)
+- [Quasar Framework](https://quasar.dev/)
+- [Capacitor.js](https://capacitorjs.com/)
+- [Axios](https://axios-http.com/)
+- [Swiper](https://swiperjs.com/)
+- [Pinia](https://pinia.vuejs.org/)
+- [Vitepress](https://vitepress.dev/)
+
+---
+
+## Setup and Installation:
+
+### Prerequisites:
+
+Quasar CLI is used for this project please install it first, for more details click [here](https://docs.anasali.info/front-end/guid/getting-started#prerequisites).
+
+> [!IMPORTANT]
+> Quasar Cli requirements
+>
+> - Node 14+ for Quasar CLI with Vite.
+> - Yarn v1 (strongly recommended), PNPM, or NPM..
+
+to install it run this command
 
 ```bash
-yarn
-# or
-npm install
+npm i -g @quasar/cli
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Clone / Fork
+
+```bash
+git clone https://github.com/anas-cd/anasali.info-frontend.git
+# - or -
+git fork https://github.com/anas-cd/anasali.info-frontend.git
+```
+
+### Installation:
+
+I recommend visiting the [getting started guid](https://docs.anasali.info/front-end/guid/getting-started#setup-projects) for a better idea but tl;dr
+
+```bash
+bash install-packs.sh
+# - or -
+chmod u+x install-packs.sh
+.\install-packs.sh
+```
+
+> [!WARNING]
+> Your IDE terminal may not recognize "bash" or "chmod", a quick solution is to run it using [Git BASH](https://gitforwindows.org/), you can run `bash install-packs.js` directly or run `chmod u+x install-packs.sh` then you can run `.\install-packs.sh` from the IDE terminal.
+
+---
+
+## Development:
+
+### Starting the Development Server:
+
+- for SPA mode
 
 ```bash
 quasar dev
 ```
 
-### Lint the files
+- for Capacitor mode
 
 ```bash
-yarn lint
-# or
-npm run lint
+quasar dev -m capacitor -T android
+# - or -
+quasar dev -m capacitor -T ios
 ```
 
-### Format the files
+---
 
-```bash
-yarn format
-# or
-npm run format
-```
+## Author
 
-### Build the app for production
-
-```bash
-quasar build
-```
-
-### Customize the configuration
-
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
-
-### Comments
-
-`---` for code chunks, used for logic and sections seperation in code
-
-```
-/* --- main comment --- */
-- or -
-// --- sub comment ---
-```
-
-`--` for descriptors, used to descripe the functionlaity of a peace of code within a code chunk
-
-```
-/* -- main comment -- */
-- or -
-// -- sub comment --
-```
-
-`-` for steps, used to indicate steps
-
-```
-/* - main comment - */
-- or -
-// - sub comment -
-```
-
-`<none>` for small notes
-
-```
-// comment
-```
+Name: Anas Shamlan
+Website: [https://dev.anasali.info](https://dev.anasali.info/)
+GitHub: [https://github.com/anas-cd](https://github.com/anas-cd)
+LinkedIn: [https://www.linkedin.com/in/anas-shamlan/](https://www.linkedin.com/in/anas-shamlan/)

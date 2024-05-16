@@ -1,0 +1,15 @@
+:root {
+  /*
+    main brand colors (same as project):
+    ----------------------------------------- */
+  --vp-c-brand-1: #2f80ed; /* azure blue */
+  --vp-c-brand-2: #f6ae2d; /* honey yello */
+  --vp-c-brand-3: #f26419; /* orange red */
+  --vp-c-brand-soft: rgba(47, 129, 237, 0.25); /* azure blue 40 */
+
+  --vp-c-green-soft: rgba(144, 238, 144, 0.25); /* positive */
+
+  --vp-c-yellow-soft: rgba(255, 215, 105, 0.25); /* warning */
+
+  --vp-c-red-soft: rgba(244, 63, 93, 0.25); /* negative */
+}
