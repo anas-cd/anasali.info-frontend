@@ -9,7 +9,7 @@ This repository contains the frontend source code for my personal portfolio webs
 
 ## Documentation
 
-[docs.anaslai.info/front-end](https://docs.anasali.info/front-end/)
+[docs.anaslai.info/front-end](https://docs.anasali.info/frontend/)
 ![App Screenshot](./docs/assets/portfolio-documentation.png)
 
 ## Features:
